@@ -51,10 +51,10 @@
 
 <h2 align="center">✨ Connect with me ✨</h2>
 <div align="center">
-    <a href="https://www.linkedin.com/in/virenderprasad/" target="_blank">
+    <a href="[https://www.linkedin.com/in/virenderprasad/](https://www.linkedin.com/in/developershakya/)" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
     </a>
-    <a href="mailto:virender288@gmail.com">
+    <a href="mailto:shakyadeveloper@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
     </a>
 </div>
